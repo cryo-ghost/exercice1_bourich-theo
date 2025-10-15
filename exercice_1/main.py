@@ -1,4 +1,4 @@
-from controllers.task_controller import taskManager
+from controllers.task_controller import TaskManager
 
 def show_menu():
     print("\n1. Ajouter une tâche")
